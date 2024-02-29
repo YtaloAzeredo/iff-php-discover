@@ -1,0 +1,27 @@
+.signup-container {
+    width: 300px;
+    margin: 100px auto;
+    padding: 20px;
+    background-color: #414f5f;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(206, 194, 194, 0.815);
+}
+
+.login-link {
+    text-align: center;
+    color: #fff
+}
+
+.login-link p {
+    margin-top: 15px;
+    font-size: 14px;
+}
+
+.login-link a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.login-link a:hover {
+    text-decoration: underline;
+}
